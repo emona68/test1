@@ -10,7 +10,7 @@ create or replace procedure spool_ddl (p_object_type in varchar2, p_owner in var
   -- Wann      Wer    Was
   -- _____________________________________________________________________________
   -- 20230306  IN     Ersterstellung
-  -- 20230207  IN     Test
+  -- 20230207  IN     Test yxyxyxxy
   --
   --
 */
